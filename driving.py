@@ -8,3 +8,9 @@ if country == 'Taiwan':
 		print('You can get a driver license!')
 	else:
 		print('You are too young for a driver license...')
+
+if country == 'US':
+	if age >= 16:
+		print('You can get a driver license!')
+	else:
+		print('You are too young for a driver license...')
